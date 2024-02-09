@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rk0403
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on articles on python and data analytics
+- 🌱 I’m system admin and cybersecurity enthusiast 
+- 💞️ I’m looking to collaborate on articles on python 
 - 📫 How to reach me you can send me an email on rahul0403@gmail.com
 
 <!---
